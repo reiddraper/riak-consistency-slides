@@ -8,8 +8,10 @@
 
 !SLIDE bullets
 
+.notes put comic here
+
 * erlang
-* put comic here
+* dynamo implementation
 
 !SLIDE bullets
 
@@ -18,3 +20,11 @@
 * mapreduce
 * large files
 * links
+
+!SLIDE bullets
+
+* N replicas!
+
+!SLIDE center
+
+![riak ring](riak-ring.png)
