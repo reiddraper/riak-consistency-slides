@@ -12,6 +12,7 @@
 
 * erlang
 * dynamo implementation
+* HTTP / PB API
 
 !SLIDE bullets
 
