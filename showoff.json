@@ -1,4 +1,5 @@
 { "name": "My Preso", "sections": [
+    {"section":"intro"},
     {"section":"what-is-riak"},
     {"section":"motivation"},
     {"section":"riak-consistency"}
