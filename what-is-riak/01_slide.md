@@ -30,13 +30,16 @@
 
 * key/value
 * secondary indexes
+* full-text search
 * mapreduce
 * large files
 * links
 
 !SLIDE bullets
 
-* N replicas!
+* consistent hashing
+* N replicas
+* buckets (mostly a namespace/defaults)
 
 !SLIDE center
 
@@ -48,6 +51,8 @@
 * any node serves any request
 
 !SLIDE commandline
+
+# trivial clustering #
 
     $bin/riak-admin join dev1@127.0.0.1
     Sent join request to dev1@127.0.0.1
