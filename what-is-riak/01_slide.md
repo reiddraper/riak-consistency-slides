@@ -2,6 +2,7 @@
 
 # Riak #
 
+* Basho
 * distributed database
 * open source
 * highly available
@@ -12,7 +13,7 @@
 
 * erlang
 * dynamo implementation
-* HTTP / PB API
+* HTTP REST / PB API
 
 !SLIDE bullets
 
@@ -24,6 +25,8 @@
 * capacity
 
 !SLIDE bullets
+
+# Data Model #
 
 * key/value
 * secondary indexes
