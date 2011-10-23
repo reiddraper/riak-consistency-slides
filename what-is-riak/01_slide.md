@@ -16,6 +16,15 @@
 
 !SLIDE bullets
 
+# distributed for #
+
+* availability
+* durability
+* throughput
+* capacity
+
+!SLIDE bullets
+
 * key/value
 * secondary indexes
 * mapreduce
