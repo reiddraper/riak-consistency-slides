@@ -2,5 +2,7 @@
     {"section":"intro"},
     {"section":"what-is-riak"},
     {"section":"motivation"},
-    {"section":"riak-consistency"}
+    {"section":"riak-consistency"},
+    {"section":"data-modelling"},
+    {"section":"end"}
     ]}
