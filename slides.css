@@ -10,7 +10,9 @@
 }
 
 .slide {
-    background-image: url(http://subtlepatterns.com/patterns/bgnoise_lg.png);
+    /*background-image: url(http://subtlepatterns.com/patterns/bgnoise_lg.png);*/
+    background-image: url(http://subtlepatterns.com/images/bgnoise.gif);
+    /*background-image: url(http://subtlepatterns.com/patterns/fancy_deboss.png);*/
 }
 
 h1 {
