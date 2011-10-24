@@ -1,4 +1,4 @@
-{ "name": "My Preso", "sections": [
+{ "name": "Tunable Consistency in Riak", "sections": [
     {"section":"intro"},
     {"section":"what-is-riak"},
     {"section":"motivation"},

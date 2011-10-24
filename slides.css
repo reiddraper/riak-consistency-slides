@@ -1,0 +1,22 @@
+.content {
+    /*font-family: 'Palatino Linotype';*/
+    /* font-family: 'Monaco';*/
+    color: #333;
+    font-family: Helvetica !important;
+}
+
+#preso :first-child {
+    /*background-image: url(http://subtlepatterns.com/patterns/washi.png) !important;*/
+}
+
+.slide {
+    background-image: url(http://subtlepatterns.com/patterns/bgnoise_lg.png);
+}
+
+h1 {
+    font-family: Helvetica !important;
+}
+
+.bullets ul li {
+    text-align: center !important;
+}
