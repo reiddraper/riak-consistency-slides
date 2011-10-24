@@ -1,8 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Poly);
+
 .content {
     /*font-family: 'Palatino Linotype';*/
     /* font-family: 'Monaco';*/
     color: #333;
-    font-family: Helvetica !important;
+    font-family: Poly !important;
 }
 
 #preso :first-child {
