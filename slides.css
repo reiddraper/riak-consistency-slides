@@ -3,8 +3,10 @@
 .content {
     /*font-family: 'Palatino Linotype';*/
     /* font-family: 'Monaco';*/
-    color: #333;
+    /*color: #333;*/
+    color: #47092E;
     font-family: Poly !important;
+    text-shadow: rgba(255, 255, 255, 0.796875) 0px 1px 0px;
 }
 
 #preso :first-child {
@@ -18,7 +20,7 @@
 }
 
 h1 {
-    font-family: Helvetica !important;
+    font-family: Poly !important;
 }
 
 .bullets ul li {
