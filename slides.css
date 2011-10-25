@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Poly);
+
+.content {
+    /*font-family: 'Palatino Linotype';*/
+    /* font-family: 'Monaco';*/
+    /*color: #333;*/
+    color: #47092E;
+    font-family: Poly !important;
+    text-shadow: rgba(255, 255, 255, 0.796875) 0px 1px 0px;
+}
+
+#preso :first-child {
+    /*background-image: url(http://subtlepatterns.com/patterns/washi.png) !important;*/
+}
+
+.slide {
+    /*background-image: url(http://subtlepatterns.com/patterns/bgnoise_lg.png);*/
+    background-image: url(http://subtlepatterns.com/images/bgnoise.gif);
+    /*background-image: url(http://subtlepatterns.com/patterns/fancy_deboss.png);*/
+}
+
+h1 {
+    font-family: Poly !important;
+}
+
+.bullets ul li {
+    text-align: center !important;
+}
