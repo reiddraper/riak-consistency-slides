@@ -4,7 +4,7 @@
     /*font-family: 'Palatino Linotype';*/
     /* font-family: 'Monaco';*/
     /*color: #333;*/
-    color: #47092E;
+    color: #555;
     font-family: Poly !important;
     text-shadow: rgba(255, 255, 255, 0.796875) 0px 1px 0px;
 }
@@ -21,8 +21,10 @@
 
 h1 {
     font-family: Poly !important;
+    color: #47092E;
 }
 
 .bullets ul li {
     text-align: center !important;
+    margin-left: 0;
 }
