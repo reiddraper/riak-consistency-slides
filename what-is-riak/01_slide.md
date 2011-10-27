@@ -1,6 +1,6 @@
 !SLIDE bullets
 
-# riak #
+# Riak #
 
 * Basho
 * open source
@@ -69,8 +69,8 @@
 
 !SLIDE bullets
 
-# Riak Enterprise
+# Riak Enterprise #
 
-* Multi-DC Replication
-* Monitoring
-* Support (our support team is amazing!)
+* multi-DC replication
+* monitoring
+* support (our support team is amazing!)
