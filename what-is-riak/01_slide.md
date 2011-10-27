@@ -3,9 +3,9 @@
 # Riak #
 
 * Basho
-* distributed database
 * open source
 * highly available
+* distributed database
 
 !SLIDE bullets
 
@@ -72,4 +72,5 @@
 # Riak Interprise
 
 * Multi-DC Replication
+* Monitoring
 * Support (our support team is amazing!)
