@@ -1,6 +1,6 @@
 !SLIDE bullets
 
-# Riak #
+# riak #
 
 * Basho
 * open source
@@ -26,7 +26,7 @@
 
 !SLIDE bullets
 
-# Data Model #
+# data model #
 
 * key/value
 * secondary indexes
