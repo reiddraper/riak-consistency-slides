@@ -69,7 +69,7 @@
 
 !SLIDE bullets
 
-# Riak Interprise
+# Riak Enterprise
 
 * Multi-DC Replication
 * Monitoring
