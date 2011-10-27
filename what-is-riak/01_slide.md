@@ -66,3 +66,10 @@
     valid      50.0%      --      'dev2@127.0.0.1'
     -------------------------------------------------------------------------------
     Valid:2 / Leaving:0 / Exiting:0 / Joining:0 / Down:0
+
+!SLIDE bullets
+
+# Riak Interprise
+
+* Multi-DC Replication
+* Support (our support team is amazing!)
